@@ -1,0 +1,16 @@
+# Calibrating camera for estimating the actual length of a Pen in a 2D image
+#To Run the Project Do the Follwing
+
+1. Copy the /calibeartion folder to any drive
+2. Open the file main.m in matlab2010 or higher
+3. Simply run the main file from matlab menu or press F5
+4. The results will be shown on the input image
+
+
+MEMEBERS -
+IRO2016007 ASHU SHARMA
+IRO2016008 SHOURYA MUNIM
+IRO2016005 SATISH YADAV
+PRO2016001 MD.MIRAZ
+PRO2016008 DILIP KUMAR
+IRM2013013 NAIMISH AGARWAL
